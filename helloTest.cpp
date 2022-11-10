@@ -25,7 +25,7 @@ protected:
 
     void failHelloWorld(void)
     {
-        exit(1);
+        exit(0);
     }
 };
 
